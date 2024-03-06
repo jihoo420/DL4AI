@@ -2,6 +2,6 @@
 Author: jihoo
 
 ##Folders
-week[1-16]: Exercise notebooks
-pratice: random practice codes
-etc: anything interesting
+-week[1-16]: Exercise notebooks
+-pratice: random practice codes
+-etc: anything interesting
